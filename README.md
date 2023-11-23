@@ -10,7 +10,7 @@ Features:
     - Disabling typing after displaying a result.
 
 Usage:
-    1. Clone the repository: git clone https://github.com/your-username/calculator.git
+    1. Clone the repository: git clone https://github.com/MohanGadhavi/Classic_web_Calculator.git
     2. Open index.html in your preferred web browser.
 
 How to Contribute:
